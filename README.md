@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antony Ngugi
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning GetX on flutter
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on flutter, java and Kotlin projects.
 - 📫 How to reach me :
 -                     LinkedIn- https://www.linkedin.com/in/antony-ngugi-709488164/
